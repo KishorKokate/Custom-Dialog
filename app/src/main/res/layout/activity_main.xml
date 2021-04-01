@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Standard Dialog"
+        android:id="@+id/standard_btn"
+        android:onClick="StandarDialog"/>
+     <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Info Dialog"
+        android:id="@+id/info_btn"
+         android:onClick="InfoDialog"/>
+     <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="TextInput Dialog"
+        android:id="@+id/textinput_btn"
+         android:onClick="TextInputDialog"/>
+     <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Choice Dialog"
+        android:id="@+id/choice_btn"
+         android:onClick="ChoiceDialog"/>
+     <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Progress Dialog"
+        android:id="@+id/progress_btn"
+
+         android:onClick="ProgressDialog"/>
+     <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:text="Custom Dialog"
+        android:id="@+id/custom_btn"
+         android:onClick="CustomDialog"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
