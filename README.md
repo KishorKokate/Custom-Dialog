@@ -16,3 +16,6 @@ Each dialog has colored top, icon, title and message + its own features. There a
 * LovelyChoiceDialog
 * LovelyProgressDialog
 * LovelyCustomDialog
+
+For more content like this follow:
+@KishorKokate
