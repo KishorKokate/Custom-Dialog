@@ -18,4 +18,4 @@ Each dialog has colored top, icon, title and message + its own features. There a
 * LovelyCustomDialog
 
 For more content like this follow:
-@KishorKokate
+[@KishorKokate](https://github.com/KishorKokate)
