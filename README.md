@@ -17,5 +17,8 @@ Each dialog has colored top, icon, title and message + its own features. There a
 * LovelyProgressDialog
 * LovelyCustomDialog
 
-For more content like this follow:
-[@KishorKokate](https://github.com/KishorKokate)
+<p><h6>Stay tuned for the latest updates:</h6>
+<a href="https://github.com/KishorKokate" >
+Follow @kishor Kokate</a></p>
+
+
